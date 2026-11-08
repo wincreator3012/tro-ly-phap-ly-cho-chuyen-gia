@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+~$*
+# Phòng khi ai đó lỡ làm việc ngay trong bản vẽ: phần riêng không bao giờ lên đây
+ho-so-viec/*
+!ho-so-viec/README.md
+chu-the/rieng/
+chu-the/mau-hop-dong/
+chu-the/ho-so-chu-the.md
+playbook/bai-hoc-tich-luy.md
+TRO-LY.json
+_skill/

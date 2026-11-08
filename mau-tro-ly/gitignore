@@ -1,0 +1,19 @@
+# Hồ sơ việc thật: không bao giờ đưa lên git
+ho-so-viec/*
+!ho-so-viec/README.md
+
+# Thông tin nhạy cảm của chủ thể
+chu-the/rieng/
+
+# Gói skill (tạo lại được bằng cong-cu/dung-tro-ly.py --goi-skill)
+_skill/
+
+# Hệ thống và tạm
+.DS_Store
+~$*
+*.tmp
+__pycache__/
+_to_delete/
+
+# Liên kết hoặc bản chép skill cho Claude Code (nguồn gốc nằm ở skills/)
+.claude/

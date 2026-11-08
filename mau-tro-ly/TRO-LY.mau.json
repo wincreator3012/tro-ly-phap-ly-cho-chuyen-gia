@@ -1,0 +1,19 @@
+{
+  "_huong-dan": "Cấu hình trợ lý pháp lý riêng. Công cụ dung-tro-ly.py ghi phienBan, ngayDung, ngayCapNhat, banGoc (vân tay các tệp năng lực lúc chép, để biết tệp nào người dùng đã sửa); skill phap-ly-thiet-lap ghi các khóa còn lại. thuMucTroLy là đường dẫn như người dùng thấy trên máy (ví dụ ~/Documents/Tro ly phap ly/tro-ly-phap-ly), không phải đường dẫn máy ảo. Không ghi thông tin nhạy cảm vào đây.",
+  "phienBan": "",
+  "ngayDung": "",
+  "ngayCapNhat": "",
+  "tenNguoiDung": "",
+  "xungHo": "bạn",
+  "thuMucTroLy": "",
+  "ungDungHangNgay": "",
+  "thietLap": {
+    "hoSoChuThe": "",
+    "lapTruong": "",
+    "mauHopDong": "",
+    "baoMat": "",
+    "goiSkill": "",
+    "gioiThieu": ""
+  },
+  "banGoc": {}
+}

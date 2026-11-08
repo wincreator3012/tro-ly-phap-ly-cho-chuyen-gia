@@ -1,0 +1,521 @@
+{
+  "_huong-dan": "Danh mục tệp của bản vẽ. Sinh bằng `python3 cong-cu/dung-tro-ly.py --lap-danh-muc`; không sửa tay.",
+  "ten": "tro-ly-phap-ly-cho-chuyen-gia",
+  "phienBan": "1.0.0",
+  "ngay": "2026-11-09",
+  "nguon": "https://github.com/wincreator3012/tro-ly-phap-ly-cho-chuyen-gia",
+  "tep": [
+    {
+      "duongDan": ".gitattributes",
+      "loai": "chi-ban-ve",
+      "sha256": "5943484e3e1097dc07a0061e5737e78f26c831f13327db13201da3aac8dff260"
+    },
+    {
+      "duongDan": ".gitignore",
+      "loai": "chi-ban-ve",
+      "sha256": "208c8869a7e4e3388d643c40ac89da0713f8e25ff2aad0cdce142f86d3ffbfa0"
+    },
+    {
+      "duongDan": "AGENTS.md",
+      "loai": "chi-ban-ve",
+      "sha256": "799d84ba29fa38a4a48078ff0fe269f3240b39fccd8e13115dbf2e57188e57d9"
+    },
+    {
+      "duongDan": "BAT-DAU.md",
+      "loai": "chi-ban-ve",
+      "sha256": "77ecc170f2352499374f448d558c6b5324b7009ed995e3577af29ecd1fb2c1c7"
+    },
+    {
+      "duongDan": "CHANGELOG.md",
+      "loai": "chi-ban-ve",
+      "sha256": "5708fb1190ab7cca1467825b5a5363fec157b59ed2aa1143366831274f4c796d"
+    },
+    {
+      "duongDan": "CLAUDE.md",
+      "loai": "chi-ban-ve",
+      "sha256": "7df521944c3556454cb43bf7786138d7c4c2b6761192d6365f9f07318a50a58a"
+    },
+    {
+      "duongDan": "DUNG-TRO-LY.md",
+      "loai": "chi-ban-ve",
+      "sha256": "202980598b0a165135572e230aef18eb9b5a603b9d4535e3ff09def65ba28a56"
+    },
+    {
+      "duongDan": "GEMINI.md",
+      "loai": "chi-ban-ve",
+      "sha256": "8da1821a1a58abd61b75b7198e4b6d752608e21c9ddb7f57ca1b5402c36e2a3d"
+    },
+    {
+      "duongDan": "GHI-CONG.md",
+      "loai": "chep",
+      "sha256": "25901457d854bf2f5e4b53dc2b7ae18c63473805c49580de3c7bffc9ca1102a0"
+    },
+    {
+      "duongDan": "HIEN-CHUONG.md",
+      "loai": "chep",
+      "sha256": "05b19fb17eed8e2ccce9872fe9241fc5764fa536a1d2a7e5b935622cc07ecdfe"
+    },
+    {
+      "duongDan": "HUONG-DAN.md",
+      "loai": "chep",
+      "sha256": "b39a4de3beae38b2299ccb3bd843b8a4788f48030669dc0f41ac7bf0234a61a9"
+    },
+    {
+      "duongDan": "LICENSE",
+      "loai": "chep",
+      "sha256": "6fd1501033a606d07857a26d9fb21ab9259418d5998f68db703489e1d6066e8f"
+    },
+    {
+      "duongDan": "LICENSE-TAI-LIEU.md",
+      "loai": "chep",
+      "sha256": "6298d86b51456439f4eb8d239d34001f4e91115521cce5a53569e104a2bd9489"
+    },
+    {
+      "duongDan": "README.md",
+      "loai": "chi-ban-ve",
+      "sha256": "b24a1f83da1f04fda00254b9a44a1251107b45fb4c9d716b81977a2861b5f0de"
+    },
+    {
+      "duongDan": "chu-the/README.md",
+      "loai": "chep",
+      "sha256": "492b5140cfa8a0687e37a82c32ce4a6cbeeda40fb61244cefcdc7819c9c566c8"
+    },
+    {
+      "duongDan": "chu-the/ho-so-chu-the.mau.md",
+      "loai": "mau",
+      "sha256": "0770c3d5c2bde65e2ae0e9c96d79901a375d9cb19cfcabedd4d7e0d1a8ffad82",
+      "dich": "chu-the/ho-so-chu-the.md"
+    },
+    {
+      "duongDan": "chuan/ngon-ngu-va-trinh-bay.md",
+      "loai": "chep",
+      "sha256": "143fab9e2756188a307bc386e5754916fa8cd17aeeabad7a47afbba2c2574c33"
+    },
+    {
+      "duongDan": "cong-cu/dung-tro-ly.py",
+      "loai": "chep",
+      "sha256": "e73705af912d54589bb9261dbbb210fa1ce2d98ecf9c1b64f1b85b17892547ff"
+    },
+    {
+      "duongDan": "cong-cu/kiem-ban-do.py",
+      "loai": "chep",
+      "sha256": "8663c4380e3549440b0cd46d1595afa28ae0030898d378009b22256c3dc84404"
+    },
+    {
+      "duongDan": "cong-cu/soi-van-ban.py",
+      "loai": "chep",
+      "sha256": "75e48f2accc8fa329c6cd41e7a6c10014508ef512e06b5cfdffb018db2951aa5"
+    },
+    {
+      "duongDan": "cong-cu/tao-viec-moi.py",
+      "loai": "chep",
+      "sha256": "a9fb91ece5dcfa6547e3435dc9c7e2702eea345a0b61b34065c93ff2eb5ec876"
+    },
+    {
+      "duongDan": "docs/BAI-HOC.md",
+      "loai": "chi-ban-ve",
+      "sha256": "b23395451768e8a268fecd6e4988b40b5b6f532003e549fdb887b0ab8d4811ae"
+    },
+    {
+      "duongDan": "docs/DONG-GOP.md",
+      "loai": "chi-ban-ve",
+      "sha256": "c98b535db202317f9f76e142f70c267ca90d268e4b8e49a888d2321db019b927"
+    },
+    {
+      "duongDan": "dong-goi/phap-ly-cap-nhat.zip",
+      "loai": "chi-ban-ve",
+      "sha256": "593a4c27f17a524a3fa1a220a05b2d53640cea924a4c3b9659cd3591b2c74895"
+    },
+    {
+      "duongDan": "dong-goi/phap-ly-dam-phan.zip",
+      "loai": "chi-ban-ve",
+      "sha256": "09b65fc4385ea82c88846b2ee1b64584fd3c5a49fc9f44465e20712f00f7938b"
+    },
+    {
+      "duongDan": "dong-goi/phap-ly-dau-tu-gop-von.zip",
+      "loai": "chi-ban-ve",
+      "sha256": "7fbd9ce2e24734f4254eba5f0201d9da5db2af4fe752c31ca9319fa51b3a74f3"
+    },
+    {
+      "duongDan": "dong-goi/phap-ly-nghien-cuu.zip",
+      "loai": "chi-ban-ve",
+      "sha256": "a082014f80850c9c2853237ff4e73d18817e6d2bd9278d05ee485f6b23a30a71"
+    },
+    {
+      "duongDan": "dong-goi/phap-ly-ra-soat.zip",
+      "loai": "chi-ban-ve",
+      "sha256": "375120795985cea87c8db82c65ae4d58800fb62904d0652ddd6c912701082ae9"
+    },
+    {
+      "duongDan": "dong-goi/phap-ly-so-huu-tri-tue.zip",
+      "loai": "chi-ban-ve",
+      "sha256": "cde5cbd0f4086ec92b89fc98a7fcbc4a05471fe7d27cc06a757d89d8191f0c90"
+    },
+    {
+      "duongDan": "dong-goi/phap-ly-soan-thao.zip",
+      "loai": "chi-ban-ve",
+      "sha256": "a3e8b062ca799ac03b4d64b59d317a865755443c6a25dad88c2a1b18511df00e"
+    },
+    {
+      "duongDan": "dong-goi/phap-ly-thiet-lap.zip",
+      "loai": "chi-ban-ve",
+      "sha256": "b872898f3cbba75d2c442050c362def100b446c7ea7275ce08370d7915edfc3a"
+    },
+    {
+      "duongDan": "dong-goi/phap-ly-tranh-chap.zip",
+      "loai": "chi-ban-ve",
+      "sha256": "883f159a671ede46189c95431d4ca6c35012a705298287f8542ea2da5c644442"
+    },
+    {
+      "duongDan": "dong-goi/phap-ly-tuan-thu.zip",
+      "loai": "chi-ban-ve",
+      "sha256": "dddcc912ecbaad1f333d86a4c67872299f611b0d0079080d7f703fb56529053e"
+    },
+    {
+      "duongDan": "dong-goi/phap-ly.zip",
+      "loai": "chi-ban-ve",
+      "sha256": "c6e2ab77fdee63a944bdb7fe748a048da5c53322e546d86ec8587a901766f32b"
+    },
+    {
+      "duongDan": "dong-goi/tep-cho-du-an/hien-chuong.md",
+      "loai": "chi-ban-ve",
+      "sha256": "05b19fb17eed8e2ccce9872fe9241fc5764fa536a1d2a7e5b935622cc07ecdfe"
+    },
+    {
+      "duongDan": "dong-goi/tep-cho-du-an/phap-ly-cap-nhat.md",
+      "loai": "chi-ban-ve",
+      "sha256": "9164347bcb1018ee322cbc76ce0f6539c241652355deb75f0ff75e1e0e5a0555"
+    },
+    {
+      "duongDan": "dong-goi/tep-cho-du-an/phap-ly-dam-phan.md",
+      "loai": "chi-ban-ve",
+      "sha256": "4ec41c84b0771056aedfd0cc28a594cf2cb555b5b20c659c1da57046162c163f"
+    },
+    {
+      "duongDan": "dong-goi/tep-cho-du-an/phap-ly-dau-tu-gop-von.md",
+      "loai": "chi-ban-ve",
+      "sha256": "52c10e32e20e5d889be2ca1937b231752915994d99ad1f84affb3d4915aef33a"
+    },
+    {
+      "duongDan": "dong-goi/tep-cho-du-an/phap-ly-nghien-cuu.md",
+      "loai": "chi-ban-ve",
+      "sha256": "d30f2c2554cc6b3738395597c6ae883c68e7819e35ab3a1d443ca6cde8f87d39"
+    },
+    {
+      "duongDan": "dong-goi/tep-cho-du-an/phap-ly-ra-soat.md",
+      "loai": "chi-ban-ve",
+      "sha256": "af387545823f89072a926a20527eb380a53792eb002a2e4c656eb244e6729cd3"
+    },
+    {
+      "duongDan": "dong-goi/tep-cho-du-an/phap-ly-so-huu-tri-tue.md",
+      "loai": "chi-ban-ve",
+      "sha256": "727b6cf8b1990965a37d42e407214f444cd7a5429c6c81af8bfe4d6c3e532b64"
+    },
+    {
+      "duongDan": "dong-goi/tep-cho-du-an/phap-ly-soan-thao.md",
+      "loai": "chi-ban-ve",
+      "sha256": "b198728644019be4be7e85e924a15e88473b0e679865c0257cb45382cffa95c7"
+    },
+    {
+      "duongDan": "dong-goi/tep-cho-du-an/phap-ly-thiet-lap.md",
+      "loai": "chi-ban-ve",
+      "sha256": "a3fcd57ef3889a18c7b119f80437a5d47596bfa6a213039e030e9cc6864d8825"
+    },
+    {
+      "duongDan": "dong-goi/tep-cho-du-an/phap-ly-tranh-chap.md",
+      "loai": "chi-ban-ve",
+      "sha256": "03d438a35e6e817f34d61d09c4edd1976979b6fa859e7e837e6240ce37343f24"
+    },
+    {
+      "duongDan": "dong-goi/tep-cho-du-an/phap-ly-tuan-thu.md",
+      "loai": "chi-ban-ve",
+      "sha256": "607baab96acb077e52237f45119f087aa108cb943ac7fd06406cf844e01b3fd4"
+    },
+    {
+      "duongDan": "dong-goi/tep-cho-du-an/phap-ly.md",
+      "loai": "chi-ban-ve",
+      "sha256": "0a95f1f8e6c7fef2b50fbbdd307e0fab0a29785a38788e8120c458b01fc745a7"
+    },
+    {
+      "duongDan": "ho-so-viec/README.md",
+      "loai": "chep",
+      "sha256": "4a8832d2233cf1c139afcd3023feaff818d55b33b9e6453f1eb1fce387ee90a8"
+    },
+    {
+      "duongDan": "kien-thuc/00-muc-luc.md",
+      "loai": "chep",
+      "sha256": "620120e7181fd697bac4cabc9f67d366f60c24507cf72c3ec16c5e43b0b86a68"
+    },
+    {
+      "duongDan": "kien-thuc/01-ban-do-van-ban-phap-luat.md",
+      "loai": "chep",
+      "sha256": "b1d14067697cd3304d4c121d9e4628b3762510cc1bec25d64066b995c27d8c5c"
+    },
+    {
+      "duongDan": "kien-thuc/02-nguon-tra-cuu-va-kiem-chung.md",
+      "loai": "chep",
+      "sha256": "bce94faed57711e3111f4dae04f52a703ed8852560015d54b74b6e07d8fbf7bc"
+    },
+    {
+      "duongDan": "kien-thuc/03-he-thong-co-quan.md",
+      "loai": "chep",
+      "sha256": "739d52a2b1e4dc8897392e0e78394cd6705dea9494e0ae71d477093b4f5b7b15"
+    },
+    {
+      "duongDan": "kien-thuc/04-nguyen-ly-hop-dong.md",
+      "loai": "chep",
+      "sha256": "27096883de83b4b21b52deddc518b9ea575827f391f77a3acfb5bc031ea13e04"
+    },
+    {
+      "duongDan": "kien-thuc/05-so-huu-tri-tue.md",
+      "loai": "chep",
+      "sha256": "e5ad3779d19e070a949c8505b306623e1370eb592772e59e7e337ee47fcea38f"
+    },
+    {
+      "duongDan": "kien-thuc/06-du-lieu-ca-nhan-va-ai.md",
+      "loai": "chep",
+      "sha256": "63edf0f3aef9d7b85e4ef7edc2971ff14d28c4478ecbe4405fd131a88f7fa26d"
+    },
+    {
+      "duongDan": "kien-thuc/07-kinh-doanh-dao-tao-va-nguoi-tieu-dung.md",
+      "loai": "chep",
+      "sha256": "af19334df2ee1142fedf008a676fe3f3263910f758a58c66840f22ed8671a4e8"
+    },
+    {
+      "duongDan": "kien-thuc/08-doanh-nghiep-dau-tu-gop-von.md",
+      "loai": "chep",
+      "sha256": "428478c5cdf4febea4b85117f9a81887f786dc6771d970ab1ccfb12f7ec5fe69"
+    },
+    {
+      "duongDan": "kien-thuc/09-lao-dong-cong-tac-vien-thue.md",
+      "loai": "chep",
+      "sha256": "51a445c3bad52ebbf78caa2caf1bc9f352b5db745f8cfb0b44d2f011e188d638"
+    },
+    {
+      "duongDan": "kien-thuc/10-giai-quyet-tranh-chap.md",
+      "loai": "chep",
+      "sha256": "a00c01ad9b99f10f013a51de04dbaabd553f89e5953f6dfb67fea1a574d9d256"
+    },
+    {
+      "duongDan": "kien-thuc/11-yeu-to-quoc-te.md",
+      "loai": "chep",
+      "sha256": "f954a54af224d301fe7ebee4f1310fa9ee5b8eff0612f465acd2edde12f088d1"
+    },
+    {
+      "duongDan": "kien-thuc/12-theo-doi-thay-doi.md",
+      "loai": "chep",
+      "sha256": "41f5fcfbae852dde6399ef589280266fd76b3ec4c1e09a6073deca3502e69cd1"
+    },
+    {
+      "duongDan": "kien-thuc/nhat-ky-cap-nhat.md",
+      "loai": "chep",
+      "sha256": "6a04f3bd0e8b797398f66088541d373b9f6705354389318d1546280a64cce024"
+    },
+    {
+      "duongDan": "mau/bang-doi-chieu-sua-doi.md",
+      "loai": "chep",
+      "sha256": "1d7d5c213d96a34b2dcf6d0fef8ea756d5b196c7333940f818bfbd39a470842a"
+    },
+    {
+      "duongDan": "mau/bao-cao-cap-nhat-phap-luat.md",
+      "loai": "chep",
+      "sha256": "a0f566bd20fa56f514a5070d6797dde4ea0ae0fbb458dc5d25223e522778d10d"
+    },
+    {
+      "duongDan": "mau/bao-cao-ra-soat-hop-dong.md",
+      "loai": "chep",
+      "sha256": "f9131c2ba502edd05ae9ee348f33230dc2cb8c7e4a6402d14eff5b310503716d"
+    },
+    {
+      "duongDan": "mau/checklist-tham-dinh-doi-tac.md",
+      "loai": "chep",
+      "sha256": "8552ba98e46436b7d805b6de532ca9851aa488b1818190fd7351426651ca0922"
+    },
+    {
+      "duongDan": "mau/ghi-nho-nghien-cuu.md",
+      "loai": "chep",
+      "sha256": "7dea1752066346416af69e31996e8d2c8729662d63ed3eaf0c365c674ec71f0d"
+    },
+    {
+      "duongDan": "mau/hop-dong/README.md",
+      "loai": "chep",
+      "sha256": "34c3f24d59261f9508a2f3225447665aa13162ad9fcbcc0160d918b7dbf1394b"
+    },
+    {
+      "duongDan": "mau/hop-dong/hop-dong-dao-tao-chuyen-gia-ky-ca-nhan.docx",
+      "loai": "chep",
+      "sha256": "1cfdd872d9dfbc59a92ddc8d0e120d1aee8691550d104e454a6696891eec71f2"
+    },
+    {
+      "duongDan": "mau/hop-dong/hop-dong-dao-tao-ky-qua-cong-ty.docx",
+      "loai": "chep",
+      "sha256": "51d01de525c23dd1bfd030c1cfd309906f368962fe75ba2301da23f039d8a3ac"
+    },
+    {
+      "duongDan": "mau/lich-tuan-thu.md",
+      "loai": "chep",
+      "sha256": "fa4d5dbfc58b4775bac1f0250f094b07cbf31a83183377551943b856177286e7"
+    },
+    {
+      "duongDan": "mau/phieu-tiep-nhan-viec.md",
+      "loai": "chep",
+      "sha256": "c0341ddd96fae5b3c882e6711a346ad3ec87e33ef9f56c4b6d708e6c36e7bf5c"
+    },
+    {
+      "duongDan": "mau/so-tai-san-tri-tue.md",
+      "loai": "chep",
+      "sha256": "825f8f7ec6f4fe2d50b15402bf181ea74182571a48eff22b1afce46f093a8419"
+    },
+    {
+      "duongDan": "mau/thu-phan-hoi-dam-phan.md",
+      "loai": "chep",
+      "sha256": "2b9e1f9b7f34e33e1d715307d9318e7bb574ed0c4fd0499c6e076453778b1257"
+    },
+    {
+      "duongDan": "mau/thu-yeu-cau.md",
+      "loai": "chep",
+      "sha256": "3e2f6e7eb9d77a9b2e17e0cb9c758129f57608d0093b76c93aebed352ff64340"
+    },
+    {
+      "duongDan": "mau/yeu-cau-gui-luat-su.md",
+      "loai": "chep",
+      "sha256": "4693fd670502341c845bc3375a9f33a09b9ca0fea405d4ec6ae89cde3095ae67"
+    },
+    {
+      "duongDan": "mau-tro-ly/AGENTS.md",
+      "loai": "mau",
+      "sha256": "96df3ac73754a391f85c261dfe1291a7e1c540a4cbb13a7a7504beb1aac21e8a",
+      "dich": "AGENTS.md"
+    },
+    {
+      "duongDan": "mau-tro-ly/CLAUDE.md",
+      "loai": "mau",
+      "sha256": "098b5257b8f0b853b70e8afb8eef0975a5b1aac6b7c806eb100d0fad1bb0fac6",
+      "dich": "CLAUDE.md"
+    },
+    {
+      "duongDan": "mau-tro-ly/GEMINI.md",
+      "loai": "mau",
+      "sha256": "e15eb0ccc8cc855f403acb34e678892d383581d54ff31bd42927a9c54aef8326",
+      "dich": "GEMINI.md"
+    },
+    {
+      "duongDan": "mau-tro-ly/TRO-LY.mau.json",
+      "loai": "mau",
+      "sha256": "d1d5a7034eb5115a667d8326b783b597354cca27f77da2bb071659d7d754a0e9",
+      "dich": "TRO-LY.json"
+    },
+    {
+      "duongDan": "mau-tro-ly/gitignore",
+      "loai": "mau",
+      "sha256": "ba2ed8a45a6d9df84a5288677975c722b710d75b67785a9d8b3b662ef0a98f2a",
+      "dich": ".gitignore"
+    },
+    {
+      "duongDan": "playbook/00-nguyen-tac-va-dieu-khoan-chung.md",
+      "loai": "chep",
+      "sha256": "f1e9971cea1e3d3b88d7631ed79975242e17cfacdf4e881f2d081757f1f99059"
+    },
+    {
+      "duongDan": "playbook/01-dich-vu-dao-tao-dien-gia-co-van.md",
+      "loai": "chep",
+      "sha256": "59bfd6eda0d5cd0785fd77ea6a831e7c42ca4362c1b328248b3fb697e71e67b7"
+    },
+    {
+      "duongDan": "playbook/02-hoc-vien-ca-nhan-va-khoa-truc-tuyen.md",
+      "loai": "chep",
+      "sha256": "bf5b3bd211e008a150448e9ff542e5c9ce8d02ceb0867c6619f2a58b5d262b55"
+    },
+    {
+      "duongDan": "playbook/03-hop-tac-dong-to-chuc-chia-doanh-thu.md",
+      "loai": "chep",
+      "sha256": "82b8312e0ba6e95fed14ae6e97b8f3904680826758f21477102b122cfc8d6860"
+    },
+    {
+      "duongDan": "playbook/04-cap-phep-xuat-ban-dong-sang-tao.md",
+      "loai": "chep",
+      "sha256": "3dfa91355c4854a7f05e26a8163021cadb2585b71475b785f8680e05d135e73e"
+    },
+    {
+      "duongDan": "playbook/05-cong-tac-vien-chuyen-gia.md",
+      "loai": "chep",
+      "sha256": "e0549777288de6410d4788c6f79ba05f9492ef10cfe9f9d75ff525cbd598f8d0"
+    },
+    {
+      "duongDan": "playbook/06-bao-mat.md",
+      "loai": "chep",
+      "sha256": "c504d07db0ac289ff39c19b9e7c61e3738866bab5ce98ed1c3d3cde2056bc7cf"
+    },
+    {
+      "duongDan": "playbook/07-gop-von-co-dong.md",
+      "loai": "chep",
+      "sha256": "a3798140aa20726d837b541e5a7db5d7133616cbcfca5973e5f3894f2ac033a3"
+    },
+    {
+      "duongDan": "playbook/bai-hoc-tich-luy.mau.md",
+      "loai": "mau",
+      "sha256": "7bc3e30fc91f7273c5cc8f5abaf0ad6a126eeab814f707194d4e333422b4ac3f",
+      "dich": "playbook/bai-hoc-tich-luy.md"
+    },
+    {
+      "duongDan": "skills/README.md",
+      "loai": "chep",
+      "sha256": "793caef4ba354079a2d8a90c4a282ddbf6f83b3df51a189a01bc709ca624510d"
+    },
+    {
+      "duongDan": "skills/phap-ly/SKILL.md",
+      "loai": "chep",
+      "sha256": "0a95f1f8e6c7fef2b50fbbdd307e0fab0a29785a38788e8120c458b01fc745a7"
+    },
+    {
+      "duongDan": "skills/phap-ly-cap-nhat/SKILL.md",
+      "loai": "chep",
+      "sha256": "9164347bcb1018ee322cbc76ce0f6539c241652355deb75f0ff75e1e0e5a0555"
+    },
+    {
+      "duongDan": "skills/phap-ly-dam-phan/SKILL.md",
+      "loai": "chep",
+      "sha256": "4ec41c84b0771056aedfd0cc28a594cf2cb555b5b20c659c1da57046162c163f"
+    },
+    {
+      "duongDan": "skills/phap-ly-dau-tu-gop-von/SKILL.md",
+      "loai": "chep",
+      "sha256": "52c10e32e20e5d889be2ca1937b231752915994d99ad1f84affb3d4915aef33a"
+    },
+    {
+      "duongDan": "skills/phap-ly-nghien-cuu/SKILL.md",
+      "loai": "chep",
+      "sha256": "d30f2c2554cc6b3738395597c6ae883c68e7819e35ab3a1d443ca6cde8f87d39"
+    },
+    {
+      "duongDan": "skills/phap-ly-ra-soat/SKILL.md",
+      "loai": "chep",
+      "sha256": "af387545823f89072a926a20527eb380a53792eb002a2e4c656eb244e6729cd3"
+    },
+    {
+      "duongDan": "skills/phap-ly-so-huu-tri-tue/SKILL.md",
+      "loai": "chep",
+      "sha256": "727b6cf8b1990965a37d42e407214f444cd7a5429c6c81af8bfe4d6c3e532b64"
+    },
+    {
+      "duongDan": "skills/phap-ly-soan-thao/SKILL.md",
+      "loai": "chep",
+      "sha256": "b198728644019be4be7e85e924a15e88473b0e679865c0257cb45382cffa95c7"
+    },
+    {
+      "duongDan": "skills/phap-ly-thiet-lap/SKILL.md",
+      "loai": "chep",
+      "sha256": "a3fcd57ef3889a18c7b119f80437a5d47596bfa6a213039e030e9cc6864d8825"
+    },
+    {
+      "duongDan": "skills/phap-ly-tranh-chap/SKILL.md",
+      "loai": "chep",
+      "sha256": "03d438a35e6e817f34d61d09c4edd1976979b6fa859e7e837e6240ce37343f24"
+    },
+    {
+      "duongDan": "skills/phap-ly-tuan-thu/SKILL.md",
+      "loai": "chep",
+      "sha256": "607baab96acb077e52237f45119f087aa108cb943ac7fd06406cf844e01b3fd4"
+    }
+  ]
+}
